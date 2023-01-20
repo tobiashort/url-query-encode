@@ -40,5 +40,5 @@ func main() {
 		input = string(data)
 	}
 	out := url.QueryEscape(input)
-	fmt.Println(out)
+	fmt.Print(out)
 }
