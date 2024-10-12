@@ -1,3 +1,3 @@
-module github.com/t-hg/url-query-encode
+module github.com/tobiashort/url-query-encode
 
 go 1.19
